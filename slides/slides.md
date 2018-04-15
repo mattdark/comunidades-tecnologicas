@@ -4,9 +4,9 @@
 
 ---
 
-## ![](./img/mario.jpg)
+## ![](./img/mariana.jpg)
 <!-- .element: style="margin-top: -5%; float: left;" -->
-<div>Mario García<br>Mozilla Representative<br>Chiapaneco de nacimiento. Entusiasta del Software Libre. Conferencista. Desarrollador Backend con experiencia en Python y Rust. Fundador de Python Chiapas. Representante de Mozilla en México. Ha participado en eventos de tecnología e innovación en México, Colombia, Canadá, España y Guatemala.</div>
+<div>Mariana García<br>TechWo Community<br>Chiapaneco de nacimiento. Entusiasta del Software Libre. Conferencista. Desarrollador Backend con experiencia en Python y Rust. Fundador de Python Chiapas. Representante de Mozilla en México. Ha participado en eventos de tecnología e innovación en México, Colombia, Canadá, España y Guatemala.</div>
 <!-- .element: style="margin-top: -5%; float: right; text-align: justify; font-size: 20px; width: 650px;" -->
 
 ----
@@ -22,10 +22,13 @@
 
 ----
 
-- 16 years old
-- HTML, CSS, JavaScript<!-- .element: class="fragment" -->
-- Server configuration<!-- .element: class="fragment" -->
-- The reason to study an IT career<!-- .element: class="fragment" -->
+- ¿Qué es una comunidad tecnológica?
+- Importancia en Educación<!-- .element: class="fragment" -->
+- Participación en comunidades<!-- .element: class="fragment" -->
+- Organización<!-- .element: class="fragment" -->
+- Tipos de comunidades<!-- .element: class="fragment" -->
+- Alcance<!-- .element: class="fragment" -->
+- Experiencias<!-- .element: class="fragment" -->
 
 ---
 
