@@ -32,179 +32,79 @@
 
 ---
 
-## What language to choose?
+## ¿Qué es una comunidad tecnológica?
 
 ----
 
-- Learning curve
-- Documetantion available<!-- .element: class="fragment" -->
-- Own interests<!-- .element: class="fragment" -->
-- What is being taught at schools?<!-- .element: class="fragment" -->
+#### Las comunidades tecnológicas son grupos de personas que comparten intereses comunes, se reunen en espacios físicos o virtuales para hacer networking, compartir ideas y conocimientos, y aprender.
 
 ----
 
-## My recommendation
-
-----
-
-### Python
+- ¿Conoces alguna comunidad o has participado en una?
+- ¿Cuál fue tu experiencia?<!-- .element: class="fragment" -->
+- ¿Cómo te enteraste?<!-- .element: class="fragment" -->
 
 ---
 
-## What is Python?
+## Importancia en Educación
 
 ----
 
-### An interpreted language used in areas like:
+### Aprendizaje Técnico
 
 ----
 
-- Math
-- Robotics<!-- .element: class="fragment" -->
-- Bioinformatics<!-- .element: class="fragment" -->
-- Astronomy<!-- .element: class="fragment" -->
-- System administration<!-- .element: class="fragment" -->
-- Artificial Intelligence<!-- .element: class="fragment" -->
-- Web development<!-- .element: class="fragment" -->
+- Planes de estudio (Complemento)
+- Tendencias<!-- .element: class="fragment" -->
+- Mercado (Demanda)<!-- .element: class="fragment" -->
+- Tecnologías emergentes<!-- .element: class="fragment" -->
+
+----
+
+### Habilidades y competencias
+
+- Comunicación
+- Trabajo en equipo<!-- .element: class="fragment" -->
+- Liderazgo<!-- .element: class="fragment" -->
+- Hablar en público<!-- .element: class="fragment" -->
+- Autoaprendizaje (Fomentar)<!-- .element: class="fragment" -->
+
+----
+
+- Aprendizaje compartido<!-- .element: class="fragment" -->
+- Creatividad<!-- .element: class="fragment" -->
+- Compromiso y dedicación<!-- .element: class="fragment" -->
+- Administración del tiempo<!-- .element: class="fragment" -->
+- Respeto mutuo<!-- .element: class="fragment" -->
+
+----
+
+### Beneficios
+
+- Desarrollo Profesional
+- Prácticas Profesionales<!-- .element: class="fragment" -->
+- Actualización Profesional<!-- .element: class="fragment" -->
+- Convenios de Colaboración<!-- .element: class="fragment" -->
 
 ---
 
-## Hello, world!
+## Participación en comunidades
 
 ----
 
-```
-  print("Hello, world!")
-```
+## ![](./img/comunidad.png)
+<!-- .element: style="margin-top: -5%; float: left;" -->
 
 ---
 
-## Where to start?
+## ¡Gracias!
 
 ----
 
-### Resources
-
-----
-
-### In Spanish
-
-----
-
-- [Python para principiantes](https://openlibra.com/en/book/python-para-principiantes)
-- <!-- .element: class="fragment" -->[Python para todos](https://openlibra.com/en/book/python-para-todos)<!-- .element: class="fragment" -->
-- <!-- .element: class="fragment" -->[Python fácil](https://porrua.mx/libro/GEN:9786076226612/python-facil/perez-castano-arnaldo/9786076226612)<!-- .element: class="fragment" -->
-- <!-- .element: class="fragment" -->[Curso de Python 3](http://codigofacilito.com/cursos/python3)<!-- .element: class="fragment" -->
-- <!-- .element: class="fragment" -->[OpenLibra](https://openlibra.com/)<!-- .element: class="fragment" -->
-
-----
-
-### In English
-
-----
-
-- [Learn Python](https://www.codeschool.com/learn/python)
-- <!-- .element: class="fragment" -->[OpenLibra](https://openlibra.com/)<!-- .element: class="fragment" -->
-
----
-
-## Python 2.7.x vs Python 3.6.x
-
-- Sintax slightly different<!-- .element: class="fragment" -->
-- Compatibility with libraries<!-- .element: class="fragment" -->
-
-----
-
-### Python 2.7.13
-
-```
-  print "Hello world!"
-```
-
-----
-
-### Python 3.6.2
-
-```
-  print("Hello world!")
-```
-
-----
-
-- Available for Windows, GNU/Linux, Mac
-- Support for x86, x86-64 & ARM<!-- .element: class="fragment" -->
-
----
-
-## Interactive Shell
-
-```
-  [mattdark@manjaro ~]$ python
-  Python 3.6.2 (default, Jul 20 2017, 03:52:27) 
-  [GCC 7.1.1 20170630] on linux
-  Type "help", "copyright", "credits" or "license" for more information.
-  >>>
-```
-<!-- .element: class="fragment" -->
-
----
-
-## Tools
-
----
-
-## Text editors
-
-- Atom<!-- .element: class="fragment" --> [atom.io](https://atom.io/)<!-- .element: class="fragment" -->
-- Notepad++<!-- .element: class="fragment" --> [notepad-plus-plus.org](https://notepad-plus-plus.org/)<!-- .element: class="fragment" -->
-- Sublime Text<!-- .element: class="fragment" --> [sublimetext.com](https://www.sublimetext.com/)<!-- .element: class="fragment" -->
-
----
-
-## IDEs
-
-- Ninja IDE<!-- .element: class="fragment" --> [ninja-ide.org](https://ninja-ide.org/)<!-- .element: class="fragment" -->
-- Thonny<!-- .element: class="fragment" --> [thonny.org](https://thonny.org/)<!-- .element: class="fragment" -->
-- QPython<!-- .element: class="fragment" --> [qpython.com](http://qpython.com/)<!-- .element: class="fragment" -->
-
----
-
-## Let's play!
-
-----
-
-## CodeCombat
-[codecombat.com](https://codecombat.com/)
-
-----
-
-- Python
-- HTML<!-- .element: class="fragment" -->
-- CSS<!-- .element: class="fragment" -->
-- JavaScript<!-- .element: class="fragment" -->
-
----
-
-## Need extra help?
-
-----
-
-- CódigoFacilito<!-- .element: class="fragment" --> [codigofacilito.com](https://codigofacilito.com/)<!-- .element: class="fragment" -->
-- Platzi<!-- .element: class="fragment" --> [platzi.com](https://platzi.com/)<!-- .element: class="fragment" -->
-- CodeSchool<!-- .element: class="fragment" --> [codeschool.com](https://codeschool.com/)<!-- .element: class="fragment" -->
-- Udemy<!-- .element: class="fragment" --> [udemy.com](https://udemy.com/)<!-- .element: class="fragment" -->
-- edX<!-- .element: class="fragment" --> [edx.org](https://edx.org)<!-- .element: class="fragment" -->
-
----
-
-## Learn More
-
-_[python.org](https//python.org)_
+### Contáctanos
 
 ___
 
-[@mariogmd](https://twitter.com/mariogmd)
+iscmarianux21@gmail.com
 
-[fb.com/iscmariog](https://facebook.com/iscmariog)
-
-mattdark@mozilla-mexico.org
+iscmariog@gmail.com
