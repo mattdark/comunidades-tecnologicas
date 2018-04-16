@@ -63,6 +63,8 @@
 
 ### Habilidades y competencias
 
+----
+
 - Comunicación
 - Trabajo en equipo<!-- .element: class="fragment" -->
 - Liderazgo<!-- .element: class="fragment" -->
@@ -81,6 +83,8 @@
 
 ### Beneficios
 
+----
+
 - Desarrollo Profesional
 - Prácticas Profesionales<!-- .element: class="fragment" -->
 - Actualización Profesional<!-- .element: class="fragment" -->
@@ -93,7 +97,72 @@
 ----
 
 ## ![](./img/comunidad.png)
-<!-- .element: style="margin-top: -5%; float: left;" -->
+<!-- .element: style="margin-top: -5%;" -->
+
+----
+
+### Pasos para iniciar una comunidad
+
+----
+
+- ¿Qué tipo de comunidad quieres crear?
+- Convoca a otras personas<!-- .element: class="fragment" -->
+- Se constante<!-- .element: class="fragment" -->
+
+---
+
+## Organización
+
+----
+
+### Roles
+
+----
+
+- Lider de comunidad
+- Diseño<!-- .element: class="fragment" -->
+- Desarrollo<!-- .element: class="fragment" -->
+- Comunicación<!-- .element: class="fragment" -->
+- Logística<!-- .element: class="fragment" -->
+- Mentor<!-- .element: class="fragment" -->
+- Colaborador<!-- .element: class="fragment" -->
+
+----
+
+### Canales de comunicación
+
+----
+
+- Redes sociales
+- Listas de correos<!-- .element: class="fragment" -->
+- Aplicaciones de mensajería<!-- .element: class="fragment" -->
+
+---
+
+## Tipos de comunidades
+
+----
+
+- Grupos de Usuarios (Software Libre)
+- Tecnologías<!-- .element: class="fragment" -->
+- Emprendimiento<!-- .element: class="fragment" -->
+- Eventos<!-- .element: class="fragment" -->
+- Meetups<!-- .element: class="fragment" -->
+- Hackerspaces<!-- .element: class="fragment" -->
+- Coworking<!-- .element: class="fragment" -->
+- Makerspaces<!-- .element: class="fragment" -->
+
+---
+
+## Experiencias
+
+----
+
+### TechWo
+
+----
+
+### Mozilla México
 
 ---
 
