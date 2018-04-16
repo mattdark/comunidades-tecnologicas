@@ -87,6 +87,7 @@
 
 - Desarrollo Profesional
 - Prácticas Profesionales<!-- .element: class="fragment" -->
+- Movilidad<!-- .element: class="fragment" -->
 - Actualización Profesional<!-- .element: class="fragment" -->
 - Convenios de Colaboración<!-- .element: class="fragment" -->
 
@@ -151,6 +152,17 @@
 - Hackerspaces<!-- .element: class="fragment" -->
 - Coworking<!-- .element: class="fragment" -->
 - Makerspaces<!-- .element: class="fragment" -->
+
+---
+
+## Alcance
+
+----
+
+- Local
+- Regional<!-- .element: class="fragment" -->
+- Nacional<!-- .element: class="fragment" -->
+- Internacional<!-- .element: class="fragment" -->
 
 ---
 
