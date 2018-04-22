@@ -6,7 +6,7 @@
 
 ## ![](./img/mariana.jpg)
 <!-- .element: style="margin-top: -5%; float: left;" -->
-<div>Mariana García<br>TechWo Community<br>Chiapaneco de nacimiento. Entusiasta del Software Libre. Conferencista. Desarrollador Backend con experiencia en Python y Rust. Fundador de Python Chiapas. Representante de Mozilla en México. Ha participado en eventos de tecnología e innovación en México, Colombia, Canadá, España y Guatemala.</div>
+<div>Mariana García<br>TechWo Community<br> Ingeniero en Sistemas Computacionales, Maestra en Administración en Educación Superior. Certificada por Carnegie Mellon Robotics Academy en la plataforma de Vex Robotics. Miembro de la comunidad  tecnológica TechWo Community Chapter Tuxtla.</div>
 <!-- .element: style="margin-top: -5%; float: right; text-align: justify; font-size: 20px; width: 650px;" -->
 
 ----
